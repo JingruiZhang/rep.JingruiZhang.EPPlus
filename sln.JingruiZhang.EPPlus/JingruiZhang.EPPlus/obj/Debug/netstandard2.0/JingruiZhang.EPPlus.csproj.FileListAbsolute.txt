@@ -1,9 +1,0 @@
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\bin\Debug\netstandard2.0\JingruiZhang.EPPlus.deps.json
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\bin\Debug\netstandard2.0\JingruiZhang.EPPlus.dll
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\bin\Debug\netstandard2.0\JingruiZhang.EPPlus.pdb
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\obj\Debug\netstandard2.0\JingruiZhang.EPPlus.csprojAssemblyReference.cache
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\obj\Debug\netstandard2.0\JingruiZhang.EPPlus.csproj.CoreCompileInputs.cache
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\obj\Debug\netstandard2.0\JingruiZhang.EPPlus.AssemblyInfoInputs.cache
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\obj\Debug\netstandard2.0\JingruiZhang.EPPlus.AssemblyInfo.cs
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\obj\Debug\netstandard2.0\JingruiZhang.EPPlus.dll
-D:\01_gits\rep.JingruiZhang.EPPlus\sln.JingruiZhang.EPPlus\JingruiZhang.EPPlus\obj\Debug\netstandard2.0\JingruiZhang.EPPlus.pdb
