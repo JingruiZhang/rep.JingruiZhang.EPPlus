@@ -175,7 +175,7 @@ namespace JingruiZhang.EPPlus
             {
                 return new Dictionary<string, List<T>>();
             }
-            for (int i = 0; i < worksheets.Count; i++)
+            for (int i = 1; i <= worksheets.Count; i++)
             {
                 string keyname = worksheets[i].Name;
                 List<T> objlist = howSheetToObjList.Invoke(worksheets[i]);

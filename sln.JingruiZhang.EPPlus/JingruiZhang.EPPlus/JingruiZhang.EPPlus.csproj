@@ -2,10 +2,10 @@
 
   <PropertyGroup>
     <TargetFrameworks>net45;netstandard2.0</TargetFrameworks>
-    <Version>0.1.3</Version>
+    <Version>0.1.4</Version>
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
     <Description>EPPlus 相关扩展</Description>
-    <PackageReleaseNotes>添加 AnalysisExcelToObjectListDic</PackageReleaseNotes>
+    <PackageReleaseNotes>修改 AnalysisExcelToObjectListDic</PackageReleaseNotes>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(TargetFramework)|$(Platform)'=='Debug|net45|AnyCPU'">
